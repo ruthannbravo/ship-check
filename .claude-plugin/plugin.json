@@ -1,0 +1,7 @@
+{
+  "name": "ship-check",
+  "version": "0.1.0",
+  "description": "A pre-launch checklist for vibe coders, plus a guard that blocks going live until it passes",
+  "author": { "name": "Ruth-Ann Bravo" },
+  "types": "./types/index.d.ts"
+}

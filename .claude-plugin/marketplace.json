@@ -1,0 +1,6 @@
+{
+  "name": "ship-check",
+  "owner": { "name": "Ruth-Ann Bravo" },
+  "description": "Ship Check: a pre-launch checklist for vibe coders, with a guard that blocks going live until it passes.",
+  "plugins": [{ "name": "ship-check", "source": "./" }]
+}
